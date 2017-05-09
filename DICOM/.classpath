@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/comp-2/Desktop/Try 1/img.jar"/>
+	<classpathentry kind="lib" path="C:/Users/comp-2/Desktop/Try 1/javabuilder.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre"/>
+	<classpathentry kind="lib" path="C:/Users/comp-2/Desktop/mat.jar"/>
+	<classpathentry kind="lib" path="C:/Users/comp-2/Desktop/Try 1/TD_Creator.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
