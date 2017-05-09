@@ -9,6 +9,8 @@ public class MatJava {
 		
 		System.out.println("Printed");
 		
+		System.out.println("Git Hub Ready to Use");
+		
 	}
 
 }
