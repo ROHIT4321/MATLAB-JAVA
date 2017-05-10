@@ -7,6 +7,8 @@ public class GIT_HUB {
 			
 			System.out.println(j);
 			
+			System.out.println(j+1);
+			
 		}
 		
 		
